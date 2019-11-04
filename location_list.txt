@@ -1,0 +1,46 @@
+* Ukraine
++Lviv (LWO)
++Ivano-Frankivsk (IFO)
++Chernivtsi (CWC)
++Rivne (RWN)
++Kyiv (IEV)
++Kharkiv (HRK)
++Odesa (ODS)
++Zaporizhya (OZH)
++Poltava (PLV)
++Kherson (KHE)
+
+* Lithuania
++Palanga (PLQ)
+
+* Finland
++Tampere (TMP)
+
+* Sweden
++Gothenburg (GOT)
+
+* Germany
++Dortmund (DTM)
++Friedrichshafen (FDH)
+
+* Hungary
++Debrecen (DEB)
+
+* Bulgaria
++Sofia (SOF)
+
+* Czech Republic
++Brno (BRQ)
+
+* Bosnia and Herzegovina
++Sarajevo (SJJ)
+
+* France
++Nantes (NTE)
++Marseille (MRS)
+
+* Azerbaijan
++Baku (GYD)
+
+* Cyprus
++Paphos (PFO)
