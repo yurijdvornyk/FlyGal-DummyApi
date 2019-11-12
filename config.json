@@ -1,0 +1,6 @@
+{
+    "flight_available_max_time_hours": 5880,
+    "flight_available_min_hours": 3,
+    "check_in_available_hours_standard": 48,
+    "check_in_available_hours_priority": 168
+}
