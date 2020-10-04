@@ -1,0 +1,21 @@
+Ukraine:
+
+Lviv (LWO)
+Kyiv (IEV)
+Kharkiv (HRK)
+Odesa (ODS)
+Zaporizhya (OZH)
+Kherson (KHE)
+Mykolaiv (NLV)
+Ivano-Frankivsk (IFO)
+Chernivtsi (CWC)
+Rivne (RWN)
+Poltava (PLV)
+Dnipro (DNK)
+Cherkasy (CKC)
+Vinnytsia (VIN)
+Uzhorod (UDJ)
+Kropyvnytskyi (KGO)
+
+Italy:
+Comiso

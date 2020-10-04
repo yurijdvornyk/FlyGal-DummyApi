@@ -3,47 +3,57 @@
         "id": "FG01001",
         "plane": "FGA01",
         "from": "LWO",
-        "to": "PLQ",
-        "basicPrice": 30.0,
+        "to": "IEV",
+        "basicPrice": 15.0,
         "timetable": [
             {
                 "day": 1,
-                "departure": "4:00",
-                "arrival": "5:30"
+                "departure": "8:00",
+                "arrival": "9:00"
             },
             {
                 "day": 3,
-                "departure": "4:00",
-                "arrival": "5:30"
+                "departure": "8:00",
+                "arrival": "9:00"
             },
             {
                 "day": 5,
-                "departure": "4:00",
-                "arrival": "5:30"
+                "departure": "8:00",
+                "arrival": "9:00"
+            },
+            {
+                "day": 7,
+                "departure": "8:00",
+                "arrival": "9:00"
             }
         ]
     },
     {
         "id": "FG01002",
         "plane": "FGA01",
-        "from": "PLQ",
+        "from": "IEV",
         "to": "LWO",
-        "basicPrice": 30.0,
+        "basicPrice": 15.0,
         "timetable": [
             {
                 "day": 1,
-                "departure": "6:00",
-                "arrival": "7:30"
+                "departure": "9:30",
+                "arrival": "10:30"
             },
             {
                 "day": 3,
-                "departure": "6:00",
-                "arrival": "7:30"
+                "departure": "9:30",
+                "arrival": "10:30"
             },
             {
                 "day": 5,
-                "departure": "6:00",
-                "arrival": "7:30"
+                "departure": "9:30",
+                "arrival": "10:30"
+            },
+            {
+                "day": 7,
+                "departure": "9:30",
+                "arrival": "10:30"
             }
         ]
     },
@@ -51,100 +61,62 @@
         "id": "FG01003",
         "plane": "FGA01",
         "from": "LWO",
-        "to": "KHE",
+        "to": "ODS",
         "basicPrice": 15.0,
         "timetable": [
             {
                 "day": 1,
-                "departure": "8:00",
-                "arrival": "9:00"
+                "departure": "11:00",
+                "arrival": "12:00"
             },
             {
                 "day": 3,
-                "departure": "8:00",
-                "arrival": "9:00"
+                "departure": "11:00",
+                "arrival": "12:00"
             },
             {
                 "day": 5,
-                "departure": "8:00",
-                "arrival": "9:00"
+                "departure": "11:00",
+                "arrival": "12:00"
+            },
+            {
+                "day": 7,
+                "departure": "11:00",
+                "arrival": "12:00"
             }
         ]
     },
     {
         "id": "FG01004",
         "plane": "FGA01",
-        "from": "KHE",
-        "to": "DEB",
-        "basicPrice": 20.0,
+        "from": "ODS",
+        "to": "LWO",
+        "basicPrice": 15.0,
         "timetable": [
             {
                 "day": 1,
-                "departure": "9:30",
-                "arrival": "10:30"
+                "departure": "12:30",
+                "arrival": "13:30"
             },
             {
                 "day": 3,
-                "departure": "9:30",
-                "arrival": "10:30"
+                "departure": "12:30",
+                "arrival": "13:30"
             },
             {
                 "day": 5,
-                "departure": "9:30",
-                "arrival": "10:30"
+                "departure": "12:30",
+                "arrival": "13:30"
+            },
+            {
+                "day": 7,
+                "departure": "12:30",
+                "arrival": "13:30"
             }
         ]
     },
     {
         "id": "FG01005",
-        "plane": "FGA01",
-        "from": "DEB",
-        "to": "KHE",
-        "basicPrice": 20.0,
-        "timetable": [
-            {
-                "day": 1,
-                "departure": "10:00",
-                "arrival": "11:00"
-            },
-            {
-                "day": 3,
-                "departure": "10:00",
-                "arrival": "11:00"
-            },
-            {
-                "day": 5,
-                "departure": "10:00",
-                "arrival": "11:00"
-            }
-        ]
-    },
-    {
-        "id": "FG01006",
-        "plane": "FGA01",
-        "from": "KHE",
-        "to": "LWO",
-        "basicPrice": 20.0,
-        "timetable": [
-            {
-                "day": 1,
-                "departure": "11:30",
-                "arrival": "12:30"
-            },
-            {
-                "day": 3,
-                "departure": "11:30",
-                "arrival": "12:30"
-            },
-            {
-                "day": 5,
-                "departure": "11:30",
-                "arrival": "12:30"
-            }
-        ]
-    },
-    {
-        "id": "FG01007",
         "plane": "FGA01",
         "from": "LWO",
         "to": "HRK",
@@ -152,23 +124,28 @@
         "timetable": [
             {
                 "day": 1,
-                "departure": "12:00",
-                "arrival": "13:30"
+                "departure": "14:00",
+                "arrival": "15:30"
             },
             {
                 "day": 3,
-                "departure": "12:00",
-                "arrival": "13:30"
+                "departure": "14:00",
+                "arrival": "15:30"
             },
             {
                 "day": 5,
-                "departure": "12:00",
-                "arrival": "13:30"
+                "departure": "14:00",
+                "arrival": "15:30"
+            },
+            {
+                "day": 7,
+                "departure": "14:00",
+                "arrival": "15:30"
             }
         ]
     },
     {
-        "id": "FG01008",
+        "id": "FG01006",
         "plane": "FGA01",
         "from": "HRK",
         "to": "LWO",
@@ -176,23 +153,28 @@
         "timetable": [
             {
                 "day": 1,
-                "departure": "14:00",
-                "arrival": "16:30"
+                "departure": "16:00",
+                "arrival": "17:30"
             },
             {
                 "day": 3,
-                "departure": "14:00",
-                "arrival": "16:30"
+                "departure": "16:00",
+                "arrival": "17:30"
             },
             {
                 "day": 5,
-                "departure": "14:00",
-                "arrival": "16:30"
+                "departure": "16:00",
+                "arrival": "17:30"
+            },
+            {
+                "day": 7,
+                "departure": "16:00",
+                "arrival": "17:30"
             }
         ]
     },
     {
-        "id": "FG01009",
+        "id": "FG01007",
         "plane": "FGA01",
         "from": "LWO",
         "to": "OZH",
@@ -200,23 +182,28 @@
         "timetable": [
             {
                 "day": 1,
-                "departure": "17:00",
-                "arrival": "18:30"
+                "departure": "18:00",
+                "arrival": "19:30"
             },
             {
                 "day": 3,
-                "departure": "17:00",
-                "arrival": "18:30"
+                "departure": "18:00",
+                "arrival": "19:30"
             },
             {
                 "day": 5,
-                "departure": "17:00",
-                "arrival": "18:30"
+                "departure": "18:00",
+                "arrival": "19:30"
+            },
+            {
+                "day": 7,
+                "departure": "18:00",
+                "arrival": "19:30"
             }
         ]
     },
     {
-        "id": "FG01010",
+        "id": "FG01008",
         "plane": "FGA01",
         "from": "OZH",
         "to": "LWO",
@@ -224,18 +211,71 @@
         "timetable": [
             {
                 "day": 1,
-                "departure": "19:00",
-                "arrival": "20:30"
+                "departure": "20:00",
+                "arrival": "21:30"
             },
             {
                 "day": 3,
-                "departure": "19:00",
-                "arrival": "20:30"
+                "departure": "20:00",
+                "arrival": "21:30"
             },
             {
                 "day": 5,
-                "departure": "19:00",
-                "arrival": "20:30"
+                "departure": "20:00",
+                "arrival": "21:30"
+            },
+            {
+                "day": 7,
+                "departure": "20:00",
+                "arrival": "21:30"
+            }
+        ]
+    },
+    {
+        "id": "FG01009",
+        "plane": "FGA01",
+        "from": "LWO",
+        "to": "PLV",
+        "basicPrice": 15.0,
+        "timetable": [
+            {
+                "day": 2,
+                "departure": "8:00",
+                "arrival": "9:30"
+            },
+            {
+                "day": 4,
+                "departure": "8:00",
+                "arrival": "9:30"
+            },
+            {
+                "day": 6,
+                "departure": "8:00",
+                "arrival": "9:30"
+            }
+        ]
+    },
+    {
+        "id": "FG01010",
+        "plane": "FGA01",
+        "from": "PLV",
+        "to": "LWO",
+        "basicPrice": 15.0,
+        "timetable": [
+            {
+                "day": 2,
+                "departure": "10:00",
+                "arrival": "11:30"
+            },
+            {
+                "day": 4,
+                "departure": "10:00",
+                "arrival": "11:30"
+            },
+            {
+                "day": 6,
+                "departure": "10:00",
+                "arrival": "11:30"
             }
         ]
     },
@@ -243,47 +283,47 @@
         "id": "FG01011",
         "plane": "FGA01",
         "from": "LWO",
-        "to": "BRQ",
-        "basicPrice": 25.0,
+        "to": "DNK",
+        "basicPrice": 15.0,
         "timetable": [
             {
-                "day": 1,
-                "departure": "21:00",
-                "arrival": "21:00"
+                "day": 2,
+                "departure": "12:00",
+                "arrival": "13:30"
             },
             {
-                "day": 3,
-                "departure": "21:00",
-                "arrival": "21:00"
+                "day": 4,
+                "departure": "12:00",
+                "arrival": "13:30"
             },
             {
-                "day": 5,
-                "departure": "21:00",
-                "arrival": "21:00"
+                "day": 6,
+                "departure": "12:00",
+                "arrival": "13:30"
             }
         ]
     },
     {
         "id": "FG01012",
         "plane": "FGA01",
-        "from": "BRQ",
+        "from": "DNK",
         "to": "LWO",
-        "basicPrice": 25.0,
+        "basicPrice": 15.0,
         "timetable": [
             {
-                "day": 1,
-                "departure": "21:30",
-                "arrival": "23:30"
+                "day": 2,
+                "departure": "14:00",
+                "arrival": "15:30"
             },
             {
-                "day": 3,
-                "departure": "21:30",
-                "arrival": "23:30"
+                "day": 4,
+                "departure": "14:00",
+                "arrival": "15:30"
             },
             {
-                "day": 5,
-                "departure": "21:30",
-                "arrival": "23:30"
+                "day": 6,
+                "departure": "14:00",
+                "arrival": "15:30"
             }
         ]
     },
@@ -291,264 +331,94 @@
         "id": "FG01013",
         "plane": "FGA01",
         "from": "LWO",
-        "to": "SJJ",
-        "basicPrice": 30.0,
+        "to": "KHE",
+        "basicPrice": 15.0,
         "timetable": [
             {
                 "day": 2,
-                "departure": "3:00",
-                "arrival": "3:30"
+                "departure": "16:00",
+                "arrival": "17:30"
+            },
+            {
+                "day": 4,
+                "departure": "16:00",
+                "arrival": "17:30"
             },
             {
                 "day": 6,
-                "departure": "3:00",
-                "arrival": "3:30"
+                "departure": "16:00",
+                "arrival": "17:30"
             }
         ]
     },
     {
         "id": "FG01014",
         "plane": "FGA01",
-        "from": "SJJ",
-        "to": "ODS",
-        "basicPrice": 30.0,
+        "from": "KHE",
+        "to": "LWO",
+        "basicPrice": 15.0,
         "timetable": [
             {
                 "day": 2,
-                "departure": "4:00",
-                "arrival": "6:30"
+                "departure": "18:00",
+                "arrival": "19:30"
+            },
+            {
+                "day": 4,
+                "departure": "18:00",
+                "arrival": "19:30"
             },
             {
                 "day": 6,
-                "departure": "4:00",
-                "arrival": "6:30"
+                "departure": "18:00",
+                "arrival": "19:30"
             }
         ]
     },
     {
         "id": "FG01015",
         "plane": "FGA01",
-        "from": "ODS",
-        "to": "SJJ",
-        "basicPrice": 30.0,
+        "from": "LWO",
+        "to": "VIN",
+        "basicPrice": 15.0,
         "timetable": [
             {
                 "day": 2,
-                "departure": "7:00",
-                "arrival": "7:30"
+                "departure": "20:00",
+                "arrival": "21:00"
+            },
+            {
+                "day": 4,
+                "departure": "20:00",
+                "arrival": "21:00"
             },
             {
                 "day": 6,
-                "departure": "7:00",
-                "arrival": "7:30"
+                "departure": "20:00",
+                "arrival": "21:00"
             }
         ]
     },
     {
         "id": "FG01016",
         "plane": "FGA01",
-        "from": "SJJ",
+        "from": "VIN",
         "to": "LWO",
-        "basicPrice": 30.0,
+        "basicPrice": 15.0,
         "timetable": [
             {
                 "day": 2,
-                "departure": "8:00",
-                "arrival": "10:30"
-            },
-            {
-                "day": 6,
-                "departure": "8:00",
-                "arrival": "10:30"
-            }
-        ]
-    },
-    {
-        "id": "FG01017",
-        "plane": "FGA01",
-        "from": "LWO",
-        "to": "NTE",
-        "basicPrice": 40.0,
-        "timetable": [
-            {
-                "day": 2,
-                "departure": "11:00",
-                "arrival": "13:00"
-            },
-            {
-                "day": 6,
-                "departure": "11:00",
-                "arrival": "13:00"
-            }
-        ]
-    },
-    {
-        "id": "FG01018",
-        "plane": "FGA01",
-        "from": "NTE",
-        "to": "IFO",
-        "basicPrice": 40.0,
-        "timetable": [
-            {
-                "day": 2,
-                "departure": "13:30",
-                "arrival": "17:00"
-            },
-            {
-                "day": 6,
-                "departure": "13:30",
-                "arrival": "17:00"
-            }
-        ]
-    },
-    {
-        "id": "FG01019",
-        "plane": "FGA01",
-        "from": "IFO",
-        "to": "NTE",
-        "basicPrice": 40.0,
-        "timetable": [
-            {
-                "day": 2,
-                "departure": "17:30",
-                "arrival": "19:00"
-            },
-            {
-                "day": 6,
-                "departure": "17:30",
-                "arrival": "19:00"
-            }
-        ]
-    },
-    {
-        "id": "FG01020",
-        "plane": "FGA01",
-        "from": "NTE",
-        "to": "LWO",
-        "basicPrice": 40.0,
-        "timetable": [
-            {
-                "day": 2,
-                "departure": "19:30",
-                "arrival": "23:00"
-            },
-            {
-                "day": 6,
-                "departure": "19:30",
-                "arrival": "23:00"
-            }
-        ]
-    },
-    {
-        "id": "FG01021",
-        "plane": "FGA01",
-        "from": "LWO",
-        "to": "GYD",
-        "basicPrice": 50.0,
-        "timetable": [
-            {
-                "day": 4,
-                "departure": "3:00",
-                "arrival": "8:00"
-            },
-            {
-                "day": 7,
-                "departure": "3:00",
-                "arrival": "8:00"
-            }
-        ]
-    },
-    {
-        "id": "FG01022",
-        "plane": "FGA01",
-        "from": "GYD",
-        "to": "KHE",
-        "basicPrice": 50.0,
-        "timetable": [
-            {
-                "day": 4,
-                "departure": "8:30",
-                "arrival": "9:30"
-            },
-            {
-                "day": 7,
-                "departure": "8:30",
-                "arrival": "9:30"
-            }
-        ]
-    },
-    {
-        "id": "FG01023",
-        "plane": "FGA01",
-        "from": "KHE",
-        "to": "GYD",
-        "basicPrice": 50.0,
-        "timetable": [
-            {
-                "day": 4,
-                "departure": "10:00",
-                "arrival": "13:00"
-            },
-            {
-                "day": 7,
-                "departure": "10:00",
-                "arrival": "13:00"
-            }
-        ]
-    },
-    {
-        "id": "FG01024",
-        "plane": "FGA01",
-        "from": "GYD",
-        "to": "LWO",
-        "basicPrice": 50.0,
-        "timetable": [
-            {
-                "day": 4,
-                "departure": "13:30",
-                "arrival": "17:30"
-            },
-            {
-                "day": 7,
-                "departure": "13:30",
-                "arrival": "17:30"
-            }
-        ]
-    },
-    {
-        "id": "FG01025",
-        "plane": "FGA01",
-        "from": "LWO",
-        "to": "GOT",
-        "basicPrice": 25.0,
-        "timetable": [
-            {
-                "day": 4,
-                "departure": "18:00",
-                "arrival": "19:00"
-            },
-            {
-                "day": 7,
-                "departure": "18:00",
-                "arrival": "19:00"
-            }
-        ]
-    },
-    {
-        "id": "FG01026",
-        "plane": "FGA01",
-        "from": "GOT",
-        "to": "LWO",
-        "basicPrice": 25.0,
-        "timetable": [
-            {
-                "day": 4,
-                "departure": "19:30",
+                "departure": "21:30",
                 "arrival": "22:30"
             },
             {
-                "day": 7,
-                "departure": "19:30",
+                "day": 4,
+                "departure": "21:30",
+                "arrival": "22:30"
+            },
+            {
+                "day": 6,
+                "departure": "21:30",
                 "arrival": "22:30"
             }
         ]
@@ -557,75 +427,95 @@
         "id": "FG02001",
         "plane": "FGA02",
         "from": "OZH",
-        "to": "DTM",
-        "basicPrice": 25.0,
+        "to": "RWN",
+        "basicPrice": 15.0,
         "timetable": [
             {
                 "day": 1,
-                "departure": "4:00",
-                "arrival": "6:00"
+                "departure": "8:00",
+                "arrival": "9:30"
             },
             {
-                "day": 5,
-                "departure": "4:00",
-                "arrival": "6:00"
+                "day": 4,
+                "departure": "8:00",
+                "arrival": "9:30"
+            },
+            {
+                "day": 7,
+                "departure": "8:00",
+                "arrival": "9:30"
             }
         ]
     },
     {
         "id": "FG02002",
         "plane": "FGA02",
-        "from": "DTM",
-        "to": "CWC",
-        "basicPrice": 25.0,
+        "from": "RWN",
+        "to": "OZH",
+        "basicPrice": 15.0,
         "timetable": [
             {
                 "day": 1,
-                "departure": "6:30",
-                "arrival": "9:30"
+                "departure": "10:00",
+                "arrival": "11:30"
             },
             {
-                "day": 5,
-                "departure": "6:30",
-                "arrival": "9:30"
+                "day": 4,
+                "departure": "10:00",
+                "arrival": "11:30"
+            },
+            {
+                "day": 7,
+                "departure": "10:00",
+                "arrival": "11:30"
             }
         ]
     },
     {
         "id": "FG02003",
         "plane": "FGA02",
-        "from": "CWC",
-        "to": "DTM",
-        "basicPrice": 25.0,
+        "from": "OZH",
+        "to": "IFO",
+        "basicPrice": 15.0,
         "timetable": [
             {
                 "day": 1,
-                "departure": "10:30",
-                "arrival": "11:30"
+                "departure": "12:00",
+                "arrival": "13:30"
             },
             {
-                "day": 5,
-                "departure": "10:30",
-                "arrival": "11:30"
+                "day": 4,
+                "departure": "12:00",
+                "arrival": "13:30"
+            },
+            {
+                "day": 7,
+                "departure": "12:00",
+                "arrival": "13:30"
             }
         ]
     },
     {
         "id": "FG02004",
         "plane": "FGA02",
-        "from": "DTM",
+        "from": "IFO",
         "to": "OZH",
-        "basicPrice": 25.0,
+        "basicPrice": 15.0,
         "timetable": [
             {
                 "day": 1,
-                "departure": "11:00",
-                "arrival": "15:00"
+                "departure": "14:00",
+                "arrival": "15:30"
             },
             {
-                "day": 5,
-                "departure": "11:00",
-                "arrival": "15:00"
+                "day": 4,
+                "departure": "14:00",
+                "arrival": "15:30"
+            },
+            {
+                "day": 7,
+                "departure": "14:00",
+                "arrival": "15:30"
             }
         ]
     },
@@ -633,37 +523,47 @@
         "id": "FG02005",
         "plane": "FGA02",
         "from": "OZH",
-        "to": "PFO",
-        "basicPrice": 30.0,
+        "to": "IEV",
+        "basicPrice": 15.0,
         "timetable": [
             {
                 "day": 1,
-                "departure": "15:30",
-                "arrival": "17:30"
+                "departure": "16:00",
+                "arrival": "17:00"
             },
             {
-                "day": 5,
-                "departure": "15:30",
-                "arrival": "17:30"
+                "day": 4,
+                "departure": "16:00",
+                "arrival": "17:00"
+            },
+            {
+                "day": 7,
+                "departure": "16:00",
+                "arrival": "17:00"
             }
         ]
     },
     {
         "id": "FG02006",
         "plane": "FGA02",
-        "from": "PFO",
+        "from": "IEV",
         "to": "OZH",
-        "basicPrice": 30.0,
+        "basicPrice": 15.0,
         "timetable": [
             {
                 "day": 1,
-                "departure": "18:30",
-                "arrival": "20:30"
+                "departure": "17:30",
+                "arrival": "18:30"
             },
             {
-                "day": 5,
-                "departure": "18:30",
-                "arrival": "20:30"
+                "day": 4,
+                "departure": "17:30",
+                "arrival": "18:30"
+            },
+            {
+                "day": 7,
+                "departure": "17:30",
+                "arrival": "18:30"
             }
         ]
     },
@@ -671,37 +571,47 @@
         "id": "FG02007",
         "plane": "FGA02",
         "from": "OZH",
-        "to": "DEB",
-        "basicPrice": 25.0,
+        "to": "ODS",
+        "basicPrice": 15.0,
         "timetable": [
             {
                 "day": 1,
-                "departure": "21:00",
-                "arrival": "21:00"
+                "departure": "19:00",
+                "arrival": "20:00"
             },
             {
-                "day": 5,
-                "departure": "21:00",
-                "arrival": "21:00"
+                "day": 4,
+                "departure": "19:00",
+                "arrival": "20:00"
+            },
+            {
+                "day": 7,
+                "departure": "19:00",
+                "arrival": "20:00"
             }
         ]
     },
     {
         "id": "FG02008",
         "plane": "FGA02",
-        "from": "DEB",
+        "from": "ODS",
         "to": "OZH",
-        "basicPrice": 25.0,
+        "basicPrice": 15.0,
         "timetable": [
             {
                 "day": 1,
-                "departure": "21:30",
-                "arrival": "23:30"
+                "departure": "20:30",
+                "arrival": "21:30"
             },
             {
-                "day": 5,
-                "departure": "21:30",
-                "arrival": "23:30"
+                "day": 4,
+                "departure": "20:30",
+                "arrival": "21:30"
+            },
+            {
+                "day": 7,
+                "departure": "20:30",
+                "arrival": "21:30"
             }
         ]
     },
@@ -709,252 +619,62 @@
         "id": "FG02009",
         "plane": "FGA02",
         "from": "OZH",
-        "to": "TMP",
-        "basicPrice": 25.0,
+        "to": "VIN",
+        "basicPrice": 15.0,
         "timetable": [
             {
-                "day": 3,
-                "departure": "4:00",
-                "arrival": "5:00"
+                "day": 2,
+                "departure": "8:00",
+                "arrival": "9:00"
             },
             {
-                "day": 7,
-                "departure": "4:00",
-                "arrival": "5:00"
+                "day": 3,
+                "departure": "8:00",
+                "arrival": "9:00"
+            },
+            {
+                "day": 5,
+                "departure": "8:00",
+                "arrival": "9:00"
+            },
+            {
+                "day": 6,
+                "departure": "8:00",
+                "arrival": "9:00"
             }
         ]
     },
     {
         "id": "FG02010",
         "plane": "FGA02",
-        "from": "TMP",
-        "to": "PLV",
-        "basicPrice": 25.0,
+        "from": "VIN",
+        "to": "OZH",
+        "basicPrice": 15.0,
         "timetable": [
             {
-                "day": 3,
-                "departure": "5:30",
-                "arrival": "8:30"
+                "day": 2,
+                "departure": "9:30",
+                "arrival": "10:30"
             },
             {
-                "day": 7,
-                "departure": "5:30",
-                "arrival": "8:30"
+                "day": 3,
+                "departure": "9:30",
+                "arrival": "10:30"
+            },
+            {
+                "day": 5,
+                "departure": "9:30",
+                "arrival": "10:30"
+            },
+            {
+                "day": 6,
+                "departure": "9:30",
+                "arrival": "10:30"
             }
         ]
     },
     {
         "id": "FG02011",
-        "plane": "FGA02",
-        "from": "PLV",
-        "to": "TMP",
-        "basicPrice": 25.0,
-        "timetable": [
-            {
-                "day": 3,
-                "departure": "9:00",
-                "arrival": "10:00"
-            },
-            {
-                "day": 7,
-                "departure": "9:00",
-                "arrival": "10:00"
-            }
-        ]
-    },
-    {
-        "id": "FG02012",
-        "plane": "FGA02",
-        "from": "TMP",
-        "to": "OZH",
-        "basicPrice": 25.0,
-        "timetable": [
-            {
-                "day": 3,
-                "departure": "10:30",
-                "arrival": "13:30"
-            },
-            {
-                "day": 7,
-                "departure": "10:30",
-                "arrival": "13:30"
-            }
-        ]
-    },
-    {
-        "id": "FG02013",
-        "plane": "FGA02",
-        "from": "OZH",
-        "to": "SOF",
-        "basicPrice": 25.0,
-        "timetable": [
-            {
-                "day": 3,
-                "departure": "14:00",
-                "arrival": "15:30"
-            },
-            {
-                "day": 7,
-                "departure": "14:00",
-                "arrival": "15:30"
-            }
-        ]
-    },
-    {
-        "id": "FG02014",
-        "plane": "FGA02",
-        "from": "SOF",
-        "to": "RWN",
-        "basicPrice": 25.0,
-        "timetable": [
-            {
-                "day": 3,
-                "departure": "16:00",
-                "arrival": "17:30"
-            },
-            {
-                "day": 7,
-                "departure": "16:00",
-                "arrival": "17:30"
-            }
-        ]
-    },
-    {
-        "id": "FG02015",
-        "plane": "FGA02",
-        "from": "RWN",
-        "to": "SOF",
-        "basicPrice": 25.0,
-        "timetable": [
-            {
-                "day": 3,
-                "departure": "18:00",
-                "arrival": "19:30"
-            },
-            {
-                "day": 7,
-                "departure": "18:00",
-                "arrival": "19:30"
-            }
-        ]
-    },
-    {
-        "id": "FG02016",
-        "plane": "FGA02",
-        "from": "SOF",
-        "to": "OZH",
-        "basicPrice": 25.0,
-        "timetable": [
-            {
-                "day": 3,
-                "departure": "20:00",
-                "arrival": "21:30"
-            },
-            {
-                "day": 7,
-                "departure": "20:00",
-                "arrival": "21:30"
-            }
-        ]
-    },
-    {
-        "id": "FG02017",
-        "plane": "FGA02",
-        "from": "OZH",
-        "to": "PLQ",
-        "basicPrice": 25.0,
-        "timetable": [
-            {
-                "day": 2,
-                "departure": "3:00",
-                "arrival": "5:00"
-            },
-            {
-                "day": 4,
-                "departure": "3:00",
-                "arrival": "5:00"
-            },
-            {
-                "day": 6,
-                "departure": "3:00",
-                "arrival": "5:00"
-            }
-        ]
-    },
-    {
-        "id": "FG02018",
-        "plane": "FGA02",
-        "from": "PLQ",
-        "to": "ODS",
-        "basicPrice": 25.0,
-        "timetable": [
-            {
-                "day": 2,
-                "departure": "5:30",
-                "arrival": "7:30"
-            },
-            {
-                "day": 4,
-                "departure": "5:30",
-                "arrival": "7:30"
-            },
-            {
-                "day": 6,
-                "departure": "5:30",
-                "arrival": "7:30"
-            }
-        ]
-    },
-    {
-        "id": "FG02019",
-        "plane": "FGA02",
-        "from": "ODS",
-        "to": "PLQ",
-        "basicPrice": 25.0,
-        "timetable": [
-            {
-                "day": 2,
-                "departure": "8:00",
-                "arrival": "10:00"
-            },
-            {
-                "day": 4,
-                "departure": "8:00",
-                "arrival": "10:00"
-            },
-            {
-                "day": 6,
-                "departure": "8:00",
-                "arrival": "10:00"
-            }
-        ]
-    },
-    {
-        "id": "FG02020",
-        "plane": "FGA02",
-        "from": "PLQ",
-        "to": "OZH",
-        "basicPrice": 25.0,
-        "timetable": [
-            {
-                "day": 2,
-                "departure": "10:30",
-                "arrival": "12:30"
-            },
-            {
-                "day": 4,
-                "departure": "10:30",
-                "arrival": "12:30"
-            },
-            {
-                "day": 6,
-                "departure": "10:30",
-                "arrival": "12:30"
-            }
-        ]
-    },
-    {
-        "id": "FG02021",
         "plane": "FGA02",
         "from": "OZH",
         "to": "CWC",
@@ -962,23 +682,28 @@
         "timetable": [
             {
                 "day": 2,
-                "departure": "13:00",
-                "arrival": "14:00"
+                "departure": "11:00",
+                "arrival": "12:30"
             },
             {
-                "day": 4,
-                "departure": "13:00",
-                "arrival": "14:00"
+                "day": 3,
+                "departure": "11:00",
+                "arrival": "12:30"
+            },
+            {
+                "day": 5,
+                "departure": "11:00",
+                "arrival": "12:30"
             },
             {
                 "day": 6,
-                "departure": "13:00",
-                "arrival": "14:00"
+                "departure": "11:00",
+                "arrival": "12:30"
             }
         ]
     },
     {
-        "id": "FG02022",
+        "id": "FG02012",
         "plane": "FGA02",
         "from": "CWC",
         "to": "OZH",
@@ -986,65 +711,225 @@
         "timetable": [
             {
                 "day": 2,
-                "departure": "14:30",
-                "arrival": "15:30"
+                "departure": "13:00",
+                "arrival": "14:30"
             },
             {
-                "day": 4,
-                "departure": "14:30",
-                "arrival": "15:30"
+                "day": 3,
+                "departure": "13:00",
+                "arrival": "14:30"
+            },
+            {
+                "day": 5,
+                "departure": "13:00",
+                "arrival": "14:30"
             },
             {
                 "day": 6,
-                "departure": "14:30",
-                "arrival": "15:30"
+                "departure": "13:00",
+                "arrival": "14:30"
             }
         ]
     },
     {
-        "id": "FG02023",
+        "id": "FG02013",
         "plane": "FGA02",
         "from": "OZH",
-        "to": "GOT",
-        "basicPrice": 30.0,
+        "to": "UDJ",
+        "basicPrice": 15.0,
         "timetable": [
             {
                 "day": 2,
-                "departure": "16:00",
+                "departure": "15:00",
+                "arrival": "16:30"
+            },
+            {
+                "day": 3,
+                "departure": "15:00",
+                "arrival": "16:30"
+            },
+            {
+                "day": 5,
+                "departure": "15:00",
+                "arrival": "16:30"
+            },
+            {
+                "day": 6,
+                "departure": "15:00",
+                "arrival": "16:30"
+            }
+        ]
+    },
+    {
+        "id": "FG02014",
+        "plane": "FGA02",
+        "from": "UDJ",
+        "to": "OZH",
+        "basicPrice": 15.0,
+        "timetable": [
+            {
+                "day": 2,
+                "departure": "17:00",
+                "arrival": "18:30"
+            },
+            {
+                "day": 3,
+                "departure": "17:00",
+                "arrival": "18:30"
+            },
+            {
+                "day": 5,
+                "departure": "17:00",
+                "arrival": "18:30"
+            },
+            {
+                "day": 6,
+                "departure": "17:00",
+                "arrival": "18:30"
+            }
+        ]
+    },
+    {
+        "id": "FG02015",
+        "plane": "FGA02",
+        "from": "OZH",
+        "to": "HRK",
+        "basicPrice": 15.0,
+        "timetable": [
+            {
+                "day": 2,
+                "departure": "17:00",
                 "arrival": "18:00"
             },
             {
-                "day": 4,
-                "departure": "16:00",
+                "day": 3,
+                "departure": "17:00",
+                "arrival": "18:00"
+            },
+            {
+                "day": 5,
+                "departure": "17:00",
                 "arrival": "18:00"
             },
             {
                 "day": 6,
-                "departure": "16:00",
+                "departure": "17:00",
                 "arrival": "18:00"
             }
         ]
     },
     {
-        "id": "FG02024",
+        "id": "FG02016",
         "plane": "FGA02",
-        "from": "GOT",
+        "from": "HRK",
         "to": "OZH",
-        "basicPrice": 30.0,
+        "basicPrice": 15.0,
         "timetable": [
             {
                 "day": 2,
                 "departure": "18:30",
-                "arrival": "22:30"
+                "arrival": "19:30"
             },
             {
-                "day": 4,
+                "day": 3,
                 "departure": "18:30",
-                "arrival": "22:30"
+                "arrival": "19:30"
+            },
+            {
+                "day": 5,
+                "departure": "18:30",
+                "arrival": "19:30"
             },
             {
                 "day": 6,
                 "departure": "18:30",
+                "arrival": "19:30"
+            }
+        ]
+    },
+    {
+        "id": "FG02017",
+        "plane": "FGA02",
+        "from": "HRK",
+        "to": "OZH",
+        "basicPrice": 15.0,
+        "timetable": [
+            {
+                "day": 2,
+                "departure": "18:30",
+                "arrival": "19:30"
+            },
+            {
+                "day": 3,
+                "departure": "18:30",
+                "arrival": "19:30"
+            },
+            {
+                "day": 5,
+                "departure": "18:30",
+                "arrival": "19:30"
+            },
+            {
+                "day": 6,
+                "departure": "18:30",
+                "arrival": "19:30"
+            }
+        ]
+    },
+    {
+        "id": "FG02017",
+        "plane": "FGA02",
+        "from": "OZH",
+        "to": "KGO",
+        "basicPrice": 15.0,
+        "timetable": [
+            {
+                "day": 2,
+                "departure": "20:00",
+                "arrival": "21:00"
+            },
+            {
+                "day": 3,
+                "departure": "20:00",
+                "arrival": "21:00"
+            },
+            {
+                "day": 5,
+                "departure": "20:00",
+                "arrival": "21:00"
+            },
+            {
+                "day": 6,
+                "departure": "20:00",
+                "arrival": "21:00"
+            }
+        ]
+    },
+    {
+        "id": "FG02018",
+        "plane": "FGA02",
+        "from": "OZH",
+        "to": "KGO",
+        "basicPrice": 15.0,
+        "timetable": [
+            {
+                "day": 2,
+                "departure": "21:30",
+                "arrival": "22:30"
+            },
+            {
+                "day": 3,
+                "departure": "21:30",
+                "arrival": "22:30"
+            },
+            {
+                "day": 5,
+                "departure": "21:30",
+                "arrival": "22:30"
+            },
+            {
+                "day": 6,
+                "departure": "21:30",
                 "arrival": "22:30"
             }
         ]
@@ -1052,128 +937,80 @@
     {
         "id": "FG03001",
         "plane": "FGA03",
-        "from": "IEV",
-        "to": "MRS",
-        "basicPrice": 30.0,
+        "from": "KGO",
+        "to": "IEV",
+        "basicPrice": 15.0,
         "timetable": [
             {
                 "day": 1,
-                "departure": "3:00",
-                "arrival": "5:00"
+                "departure": "8:00",
+                "arrival": "9:00"
             },
             {
                 "day": 4,
-                "departure": "3:00",
-                "arrival": "5:00"
+                "departure": "8:00",
+                "arrival": "9:00"
             },
             {
-                "day": 7,
-                "departure": "3:00",
-                "arrival": "5:00"
+                "day": 6,
+                "departure": "8:00",
+                "arrival": "9:00"
             }
         ]
     },
     {
         "id": "FG03002",
         "plane": "FGA03",
-        "from": "MRS",
-        "to": "IEV",
-        "basicPrice": 30.0,
+        "from": "IEV",
+        "to": "KGO",
+        "basicPrice": 15.0,
         "timetable": [
             {
                 "day": 1,
-                "departure": "5:30",
-                "arrival": "9:30"
+                "departure": "9:30",
+                "arrival": "10:30"
             },
             {
                 "day": 4,
-                "departure": "5:30",
-                "arrival": "9:30"
+                "departure": "9:30",
+                "arrival": "10:30"
             },
             {
-                "day": 7,
-                "departure": "5:30",
-                "arrival": "9:30"
+                "day": 6,
+                "departure": "9:30",
+                "arrival": "10:30"
             }
         ]
     },
     {
         "id": "FG03003",
         "plane": "FGA03",
-        "from": "IEV",
-        "to": "KHE",
+        "from": "KGO",
+        "to": "PLV",
         "basicPrice": 15.0,
         "timetable": [
             {
                 "day": 1,
-                "departure": "10:00",
-                "arrival": "11:00"
+                "departure": "11:00",
+                "arrival": "12:00"
             },
             {
                 "day": 4,
-                "departure": "10:00",
-                "arrival": "11:00"
+                "departure": "11:00",
+                "arrival": "12:00"
             },
             {
-                "day": 7,
-                "departure": "10:00",
-                "arrival": "11:00"
+                "day": 6,
+                "departure": "11:00",
+                "arrival": "12:00"
             }
         ]
     },
     {
         "id": "FG03004",
         "plane": "FGA03",
-        "from": "KHE",
-        "to": "SJJ",
-        "basicPrice": 50.0,
-        "timetable": [
-            {
-                "day": 1,
-                "departure": "11:30",
-                "arrival": "12:00"
-            },
-            {
-                "day": 4,
-                "departure": "11:30",
-                "arrival": "12:00"
-            },
-            {
-                "day": 7,
-                "departure": "11:30",
-                "arrival": "12:00"
-            }
-        ]
-    },
-    {
-        "id": "FG03005",
-        "plane": "FGA03",
-        "from": "SJJ",
-        "to": "KHE",
-        "basicPrice": 50.0,
-        "timetable": [
-            {
-                "day": 1,
-                "departure": "11:30",
-                "arrival": "12:00"
-            },
-            {
-                "day": 4,
-                "departure": "11:30",
-                "arrival": "12:00"
-            },
-            {
-                "day": 7,
-                "departure": "11:30",
-                "arrival": "12:00"
-            }
-        ]
-    },
-    {
-        "id": "FG03006",
-        "plane": "FGA03",
-        "from": "KHE",
-        "to": "IEV",
+        "from": "PLV",
+        "to": "KGO",
         "basicPrice": 15.0,
         "timetable": [
             {
@@ -1187,6 +1024,266 @@
                 "arrival": "13:30"
             },
             {
+                "day": 6,
+                "departure": "12:30",
+                "arrival": "13:30"
+            }
+        ]
+    },
+    {
+        "id": "FG03005",
+        "plane": "FGA03",
+        "from": "KGO",
+        "to": "HRK",
+        "basicPrice": 15.0,
+        "timetable": [
+            {
+                "day": 1,
+                "departure": "14:00",
+                "arrival": "15:00"
+            },
+            {
+                "day": 4,
+                "departure": "14:00",
+                "arrival": "15:00"
+            },
+            {
+                "day": 6,
+                "departure": "14:00",
+                "arrival": "15:00"
+            }
+        ]
+    },
+    {
+        "id": "FG03006",
+        "plane": "FGA03",
+        "from": "HRK",
+        "to": "KGO",
+        "basicPrice": 15.0,
+        "timetable": [
+            {
+                "day": 1,
+                "departure": "15:30",
+                "arrival": "16:30"
+            },
+            {
+                "day": 4,
+                "departure": "15:30",
+                "arrival": "16:30"
+            },
+            {
+                "day": 6,
+                "departure": "15:30",
+                "arrival": "16:30"
+            }
+        ]
+    },
+    {
+        "id": "FG03007",
+        "plane": "FGA03",
+        "from": "KGO",
+        "to": "KHE",
+        "basicPrice": 15.0,
+        "timetable": [
+            {
+                "day": 1,
+                "departure": "17:00",
+                "arrival": "18:00"
+            },
+            {
+                "day": 4,
+                "departure": "17:00",
+                "arrival": "18:00"
+            },
+            {
+                "day": 6,
+                "departure": "17:00",
+                "arrival": "18:00"
+            }
+        ]
+    },
+    {
+        "id": "FG03008",
+        "plane": "FGA03",
+        "from": "KHE",
+        "to": "KGO",
+        "basicPrice": 15.0,
+        "timetable": [
+            {
+                "day": 1,
+                "departure": "18:30",
+                "arrival": "19:30"
+            },
+            {
+                "day": 4,
+                "departure": "18:30",
+                "arrival": "19:30"
+            },
+            {
+                "day": 6,
+                "departure": "18:30",
+                "arrival": "19:30"
+            }
+        ]
+    },
+    {
+        "id": "FG03009",
+        "plane": "FGA03",
+        "from": "KGO",
+        "to": "ODS",
+        "basicPrice": 15.0,
+        "timetable": [
+            {
+                "day": 1,
+                "departure": "20:00",
+                "arrival": "21:00"
+            },
+            {
+                "day": 4,
+                "departure": "20:00",
+                "arrival": "21:00"
+            },
+            {
+                "day": 6,
+                "departure": "20:00",
+                "arrival": "21:00"
+            }
+        ]
+    },
+    {
+        "id": "FG03010",
+        "plane": "FGA03",
+        "from": "ODS",
+        "to": "KGO",
+        "basicPrice": 15.0,
+        "timetable": [
+            {
+                "day": 1,
+                "departure": "21:30",
+                "arrival": "22:30"
+            },
+            {
+                "day": 4,
+                "departure": "21:30",
+                "arrival": "22:30"
+            },
+            {
+                "day": 6,
+                "departure": "21:30",
+                "arrival": "22:30"
+            }
+        ]
+    },
+    {
+        "id": "FG03011",
+        "plane": "FGA03",
+        "from": "KGO",
+        "to": "CWC",
+        "basicPrice": 15.0,
+        "timetable": [
+            {
+                "day": 2,
+                "departure": "8:00",
+                "arrival": "9:00"
+            },
+            {
+                "day": 3,
+                "departure": "8:00",
+                "arrival": "9:00"
+            },
+            {
+                "day": 5,
+                "departure": "8:00",
+                "arrival": "9:00"
+            },
+            {
+                "day": 7,
+                "departure": "8:00",
+                "arrival": "9:00"
+            }
+        ]
+    },
+    {
+        "id": "FG03012",
+        "plane": "FGA03",
+        "from": "CWC",
+        "to": "KGO",
+        "basicPrice": 15.0,
+        "timetable": [
+            {
+                "day": 2,
+                "departure": "9:30",
+                "arrival": "10:30"
+            },
+            {
+                "day": 3,
+                "departure": "9:30",
+                "arrival": "10:30"
+            },
+            {
+                "day": 5,
+                "departure": "9:30",
+                "arrival": "10:30"
+            },
+            {
+                "day": 7,
+                "departure": "9:30",
+                "arrival": "10:30"
+            }
+        ]
+    },
+    {
+        "id": "FG03013",
+        "plane": "FGA03",
+        "from": "KGO",
+        "to": "IFO",
+        "basicPrice": 15.0,
+        "timetable": [
+            {
+                "day": 2,
+                "departure": "11:00",
+                "arrival": "12:00"
+            },
+            {
+                "day": 3,
+                "departure": "11:00",
+                "arrival": "12:00"
+            },
+            {
+                "day": 5,
+                "departure": "11:00",
+                "arrival": "12:00"
+            },
+            {
+                "day": 7,
+                "departure": "11:00",
+                "arrival": "12:00"
+            }
+        ]
+    },
+    {
+        "id": "FG03014",
+        "plane": "FGA03",
+        "from": "IFO",
+        "to": "KGO",
+        "basicPrice": 15.0,
+        "timetable": [
+            {
+                "day": 2,
+                "departure": "12:30",
+                "arrival": "13:30"
+            },
+            {
+                "day": 3,
+                "departure": "12:30",
+                "arrival": "13:30"
+            },
+            {
+                "day": 5,
+                "departure": "12:30",
+                "arrival": "13:30"
+            },
+            {
                 "day": 7,
                 "departure": "12:30",
                 "arrival": "13:30"
@@ -1194,374 +1291,104 @@
         ]
     },
     {
-        "id": "FG03007",
+        "id": "FG03015",
         "plane": "FGA03",
-        "from": "IEV",
-        "to": "BRQ",
-        "basicPrice": 30.0,
+        "from": "KGO",
+        "to": "LWO",
+        "basicPrice": 15.0,
         "timetable": [
             {
-                "day": 1,
+                "day": 2,
                 "departure": "14:00",
-                "arrival": "14:30"
+                "arrival": "15:00"
             },
             {
-                "day": 4,
+                "day": 3,
                 "departure": "14:00",
-                "arrival": "14:30"
+                "arrival": "15:00"
+            },
+            {
+                "day": 5,
+                "departure": "14:00",
+                "arrival": "15:00"
             },
             {
                 "day": 7,
                 "departure": "14:00",
-                "arrival": "14:30"
+                "arrival": "15:00"
             }
         ]
     },
     {
-        "id": "FG03008",
+        "id": "FG03016",
         "plane": "FGA03",
-        "from": "BRQ",
-        "to": "PLV",
-        "basicPrice": 30.0,
+        "from": "LWO",
+        "to": "KGO",
+        "basicPrice": 15.0,
         "timetable": [
             {
-                "day": 1,
-                "departure": "15:00",
-                "arrival": "17:30"
+                "day": 2,
+                "departure": "15:30",
+                "arrival": "16:30"
             },
             {
-                "day": 4,
-                "departure": "15:00",
-                "arrival": "17:30"
+                "day": 3,
+                "departure": "15:30",
+                "arrival": "16:30"
+            },
+            {
+                "day": 5,
+                "departure": "15:30",
+                "arrival": "16:30"
             },
             {
                 "day": 7,
-                "departure": "15:00",
-                "arrival": "17:30"
+                "departure": "15:30",
+                "arrival": "16:30"
             }
         ]
     },
     {
-        "id": "FG03008",
+        "id": "FG03017",
         "plane": "FGA03",
-        "from": "PLV",
-        "to": "BRQ",
-        "basicPrice": 30.0,
-        "timetable": [
-            {
-                "day": 1,
-                "departure": "18:00",
-                "arrival": "18:30"
-            },
-            {
-                "day": 4,
-                "departure": "18:00",
-                "arrival": "18:30"
-            },
-            {
-                "day": 7,
-                "departure": "18:00",
-                "arrival": "18:30"
-            }
-        ]
-    },
-    {
-        "id": "FG03008",
-        "plane": "FGA03",
-        "from": "BRQ",
-        "to": "IEV",
-        "basicPrice": 30.0,
-        "timetable": [
-            {
-                "day": 1,
-                "departure": "19:00",
-                "arrival": "22:30"
-            },
-            {
-                "day": 4,
-                "departure": "18:00",
-                "arrival": "22:30"
-            },
-            {
-                "day": 7,
-                "departure": "18:00",
-                "arrival": "22:30"
-            }
-        ]
-    },
-    {
-        "id": "FG03009",
-        "plane": "FGA03",
-        "from": "IEV",
-        "to": "GYD",
-        "basicPrice": 50.0,
+        "from": "KGO",
+        "to": "RWN",
+        "basicPrice": 15.0,
         "timetable": [
             {
                 "day": 2,
-                "departure": "3:00",
-                "arrival": "4:00"
+                "departure": "17:00",
+                "arrival": "18:00"
             },
-            {
-                "day": 6,
-                "departure": "3:00",
-                "arrival": "4:00"
-            }
-        ]
-    },
-    {
-        "id": "FG030010",
-        "plane": "FGA03",
-        "from": "GYD",
-        "to": "IEV",
-        "basicPrice": 50.0,
-        "timetable": [
-            {
-                "day": 2,
-                "departure": "4:30",
-                "arrival": "8:30"
-            },
-            {
-                "day": 6,
-                "departure": "4:30",
-                "arrival": "8:30"
-            }
-        ]
-    },
-    {
-        "id": "FG030011",
-        "plane": "FGA03",
-        "from": "IEV",
-        "to": "FDH",
-        "basicPrice": 30.0,
-        "timetable": [
-            {
-                "day": 2,
-                "departure": "9:00",
-                "arrival": "10:00"
-            },
-            {
-                "day": 6,
-                "departure": "9:00",
-                "arrival": "10:00"
-            }
-        ]
-    },
-    {
-        "id": "FG030012",
-        "plane": "FGA03",
-        "from": "FDH",
-        "to": "IFO",
-        "basicPrice": 30.0,
-        "timetable": [
-            {
-                "day": 2,
-                "departure": "10:30",
-                "arrival": "13:00"
-            },
-            {
-                "day": 6,
-                "departure": "10:30",
-                "arrival": "13:00"
-            }
-        ]
-    },
-    {
-        "id": "FG030013",
-        "plane": "FGA03",
-        "from": "IFO",
-        "to": "FDH",
-        "basicPrice": 30.0,
-        "timetable": [
-            {
-                "day": 2,
-                "departure": "13:30",
-                "arrival": "14:00"
-            },
-            {
-                "day": 6,
-                "departure": "13:30",
-                "arrival": "14:00"
-            }
-        ]
-    },
-    {
-        "id": "FG030014",
-        "plane": "FGA03",
-        "from": "FDH",
-        "to": "IEV",
-        "basicPrice": 30.0,
-        "timetable": [
-            {
-                "day": 2,
-                "departure": "14:00",
-                "arrival": "17:00"
-            },
-            {
-                "day": 6,
-                "departure": "14:00",
-                "arrival": "17:00"
-            }
-        ]
-    },
-    {
-        "id": "FG030015",
-        "plane": "FGA03",
-        "from": "IEV",
-        "to": "GOT",
-        "basicPrice": 30.0,
-        "timetable": [
-            {
-                "day": 2,
-                "departure": "17:30",
-                "arrival": "18:30"
-            },
-            {
-                "day": 6,
-                "departure": "17:30",
-                "arrival": "18:30"
-            }
-        ]
-    },
-    {
-        "id": "FG030016",
-        "plane": "FGA03",
-        "from": "GOT",
-        "to": "IEV",
-        "basicPrice": 30.0,
-        "timetable": [
-            {
-                "day": 2,
-                "departure": "19:00",
-                "arrival": "22:00"
-            },
-            {
-                "day": 6,
-                "departure": "19:00",
-                "arrival": "22:00"
-            }
-        ]
-    },
-    {
-        "id": "FG030017",
-        "plane": "FGA03",
-        "from": "IEV",
-        "to": "TMP",
-        "basicPrice": 30.0,
-        "timetable": [
             {
                 "day": 3,
-                "departure": "3:00",
-                "arrival": "5:00"
-            },
-            {
-                "day": 5,
-                "departure": "3:00",
-                "arrival": "5:00"
-            }
-        ]
-    },
-    {
-        "id": "FG030018",
-        "plane": "FGA03",
-        "from": "TMP",
-        "to": "ODS",
-        "basicPrice": 30.0,
-        "timetable": [
-            {
-                "day": 3,
-                "departure": "5:30",
-                "arrival": "8:00"
-            },
-            {
-                "day": 5,
-                "departure": "5:30",
-                "arrival": "8:00"
-            }
-        ]
-    },
-    {
-        "id": "FG030019",
-        "plane": "FGA03",
-        "from": "ODS",
-        "to": "TMP",
-        "basicPrice": 30.0,
-        "timetable": [
-            {
-                "day": 3,
-                "departure": "8:30",
-                "arrival": "11:00"
-            },
-            {
-                "day": 5,
-                "departure": "8:30",
-                "arrival": "11:00"
-            }
-        ]
-    },
-    {
-        "id": "FG030020",
-        "plane": "FGA03",
-        "from": "TMP",
-        "to": "IEV",
-        "basicPrice": 30.0,
-        "timetable": [
-            {
-                "day": 3,
-                "departure": "11:30",
-                "arrival": "13:30"
-            },
-            {
-                "day": 5,
-                "departure": "11:30",
-                "arrival": "13:30"
-            }
-        ]
-    },
-    {
-        "id": "FG030021",
-        "plane": "FGA03",
-        "from": "IEV",
-        "to": "BRQ",
-        "basicPrice": 40.0,
-        "timetable": [
-            {
-                "day": 3,
-                "departure": "14:00",
-                "arrival": "14:30"
-            },
-            {
-                "day": 5,
-                "departure": "14:00",
-                "arrival": "14:30"
-            }
-        ]
-    },
-    {
-        "id": "FG030022",
-        "plane": "FGA03",
-        "from": "BRQ",
-        "to": "HRK",
-        "basicPrice": 40.0,
-        "timetable": [
-            {
-                "day": 3,
-                "departure": "15:00",
+                "departure": "17:00",
                 "arrival": "18:00"
             },
             {
                 "day": 5,
-                "departure": "15:00",
+                "departure": "17:00",
+                "arrival": "18:00"
+            },
+            {
+                "day": 7,
+                "departure": "17:00",
                 "arrival": "18:00"
             }
         ]
     },
     {
-        "id": "FG030023",
+        "id": "FG03018",
         "plane": "FGA03",
-        "from": "HRK",
-        "to": "BRQ",
-        "basicPrice": 40.0,
+        "from": "RWN",
+        "to": "KGO",
+        "basicPrice": 15.0,
         "timetable": [
+            {
+                "day": 2,
+                "departure": "18:30",
+                "arrival": "19:30"
+            },
             {
                 "day": 3,
                 "departure": "18:30",
@@ -1571,24 +1398,68 @@
                 "day": 5,
                 "departure": "18:30",
                 "arrival": "19:30"
+            },
+            {
+                "day": 7,
+                "departure": "18:30",
+                "arrival": "19:30"
             }
         ]
     },
     {
-        "id": "FG030024",
+        "id": "FG03019",
         "plane": "FGA03",
-        "from": "BRQ",
-        "to": "IEV",
-        "basicPrice": 40.0,
+        "from": "KGO",
+        "to": "UDJ",
+        "basicPrice": 15.0,
         "timetable": [
+            {
+                "day": 2,
+                "departure": "20:00",
+                "arrival": "21:00"
+            },
             {
                 "day": 3,
                 "departure": "20:00",
-                "arrival": "22:30"
+                "arrival": "21:00"
             },
             {
                 "day": 5,
                 "departure": "20:00",
+                "arrival": "21:00"
+            },
+            {
+                "day": 7,
+                "departure": "20:00",
+                "arrival": "21:00"
+            }
+        ]
+    },
+    {
+        "id": "FG03020",
+        "plane": "FGA03",
+        "from": "UDJ",
+        "to": "KGO",
+        "basicPrice": 15.0,
+        "timetable": [
+            {
+                "day": 2,
+                "departure": "21:30",
+                "arrival": "22:30"
+            },
+            {
+                "day": 3,
+                "departure": "21:30",
+                "arrival": "22:30"
+            },
+            {
+                "day": 5,
+                "departure": "21:30",
+                "arrival": "22:30"
+            },
+            {
+                "day": 7,
+                "departure": "21:30",
                 "arrival": "22:30"
             }
         ]

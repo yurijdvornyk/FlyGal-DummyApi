@@ -43,9 +43,7 @@
         "airportCode": "IEV",
         "airportName": "Igor Sikorsky Kyiv International Airport (Zhuliany)",
         "location": "50.4119806,30.4432924",
-        "planes": [
-            "FGA03"
-        ],
+        "planes": [],
         "text": "Ut at euismod enim. Cras imperdiet imperdiet purus at bibendum. Fusce eu hendrerit nisl. Mauris enim arcu, fringilla eget est ac, vulputate consequat diam. Nunc tempor mauris vitae placerat laoreet. Aliquam tincidunt faucibus mattis. Phasellus eget ultricies leo. Cras blandit nunc risus, sed laoreet quam condimentum eget. Aliquam at pulvinar mauris. Nullam ultrices mi non sem tincidunt tempor. Donec facilisis, lectus sit amet rutrum feugiat, ipsum nulla dignissim tortor, a porta nisl nibh in velit. Cras suscipit pretium dolor in dictum. Sed at cursus tortor. Aliquam a sapien felis. Donec sed aliquet tortor, quis pellentesque ex. Ut sem sapien, pretium eu viverra ac, aliquam nec purus. Fusce nec nisi luctus, pharetra urna feugiat, vulputate diam. Curabitur consequat elementum sapien, sit amet euismod justo pretium non. Suspendisse a nisi sit amet justo porta ultrices et id turpis. Suspendisse fringilla urna eget purus tincidunt, nec dignissim dolor cursus. Mauris porta orci a massa sagittis, id semper mi luctus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In in euismod diam, quis vestibulum nisl. In dolor lectus, ultricies ut mauris eget, pretium fermentum massa. Sed eget placerat purus. Nullam dictum ultricies lectus, eget porta nunc scelerisque non. Etiam."
     },
     {
@@ -87,120 +85,48 @@
         "text": "Sed suscipit, nulla ac finibus congue, ligula nibh dictum felis, pulvinar vestibulum odio urna ut est. Suspendisse sit amet justo lectus. Quisque a efficitur est, nec maximus leo. Nam auctor lacus vel arcu condimentum, sed vestibulum dui semper. Aliquam condimentum nulla dapibus lectus posuere, in accumsan libero elementum. Phasellus dictum sagittis ipsum, sit amet pellentesque nibh vestibulum nec. Ut ac sem lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi ullamcorper elit sed congue ornare. Mauris augue odio, aliquet non imperdiet vitae, imperdiet commodo nulla. Maecenas rutrum, sapien sed mattis ultrices, metus augue maximus tellus, sit amet aliquam sapien mi sit amet eros. Phasellus feugiat, neque et porta dignissim, elit dui accumsan nisi, ut laoreet metus justo malesuada tortor. Proin pretium mauris et risus hendrerit, ut aliquam lorem feugiat. Phasellus sed gravida nisl, vel malesuada erat. Vestibulum lacinia lectus at magna sagittis, in porta purus gravida. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Curabitur tempus vehicula nulla, id laoreet massa tincidunt eu. Integer ultrices tincidunt lorem ac convallis. Nunc sagittis leo eu rutrum porta. In maximus mi odio, eu convallis turpis interdum in. Suspendisse faucibus nec mi quis."
     },
     {
-        "country": "Lithuania",
-        "city": "Palanga",
-        "airportCode": "PLQ",
-        "airportName": "Palanga Airport",
-        "location": "55.971382,21.0972208",
+        "country": "Ukraine",
+        "city": "Uzhorod",
+        "airportCode": "UDJ",
+        "airportName": "Uzhorod Airport",
+        "location": "0.0,0.0",
         "planes": [],
-        "text": "Quisque semper metus ante, ac commodo augue ornare tincidunt. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse id neque ut nibh efficitur rhoncus ut ut dui. Duis massa velit, malesuada at orci vitae, pellentesque sodales massa. Ut sit amet posuere sapien. Curabitur venenatis facilisis dui. Nullam ante libero, facilisis non libero at, lacinia euismod nunc. Etiam iaculis blandit tincidunt. Donec vitae sodales neque. Vestibulum condimentum dui vitae convallis dapibus. Maecenas lectus magna, sagittis non orci vel, feugiat sodales lectus. Sed id vehicula enim, eget volutpat mi. Ut congue dui massa, sit amet faucibus purus finibus et. Phasellus vestibulum mauris ipsum, vitae convallis velit lobortis nec. Nunc nec sapien ut lorem accumsan blandit sit amet at risus. Donec mauris eros, imperdiet quis ligula vel, rutrum pellentesque diam. Pellentesque commodo egestas nisi, vitae pretium quam tempus a. Praesent eget sapien rutrum, lacinia ex vitae, mattis arcu. Mauris a sem vulputate, lacinia lacus at, rhoncus tortor. Proin quis vehicula purus, ac rhoncus sem. Vivamus eu odio quis risus congue luctus. Sed ut erat vel mi rhoncus molestie sed vitae nulla. Aenean sed fermentum nisi. Nam eu malesuada ex. Aliquam blandit pellentesque leo, eu iaculis enim mollis vel. Donec."
+        "text": ""
     },
     {
-        "country": "Finland",
-        "city": "Tampere",
-        "airportCode": "TMP",
-        "airportName": "Tampere–Pirkkala Airport",
-        "location": "61.4148569,23.6024356",
+        "country": "Ukraine",
+        "city": "Dnipro",
+        "airportCode": "DNK",
+        "airportName": "Dnipro International Airport",
+        "location": "0.0,0.0",
         "planes": [],
-        "text": "Nullam nec dapibus ligula, eu placerat lorem. Proin id leo mauris. Donec dapibus sagittis ligula, et mattis mi pellentesque ut. Maecenas dui enim, tincidunt ut ligula molestie, aliquam rutrum elit. Donec eu lorem ex. Nam luctus, tortor non faucibus venenatis, felis urna eleifend felis, eget pellentesque tortor felis vitae nibh. Aenean ac hendrerit orci, non ultrices diam. Nulla ac tortor in ex cursus fermentum. Curabitur sodales, arcu a finibus dapibus, augue mi maximus elit, et pretium massa orci at odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse eu sapien sodales, sollicitudin magna posuere, pellentesque arcu. Curabitur auctor, nibh nec eleifend tempus, metus ipsum cursus urna, in porta odio ante nec elit. In hac habitasse platea dictumst. Nulla aliquet fringilla suscipit. Mauris pretium metus non enim tempus ultrices. Integer vitae lacinia ex, at imperdiet quam. Aliquam egestas ex eget accumsan dictum. In hac habitasse platea dictumst. Nunc non dolor laoreet, euismod elit nec, vulputate augue. Proin luctus, odio vel imperdiet euismod, neque lorem rhoncus dui, sed egestas dui risus sit amet lectus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas efficitur mollis mollis. Cras vitae velit et metus semper."
+        "text": ""
     },
     {
-        "country": "Sweden",
-        "city": "Gothenburg",
-        "airportCode": "GOT",
-        "airportName": "Goteborg Landvetter Airport",
-        "location": "57.668799,12.29012",
+        "country": "Ukraine",
+        "city": "Kropyvnytskyi",
+        "airportCode": "KGO",
+        "airportName": "Kropyvnytskyi International Airport",
+        "location": "0.0,0.0",
         "planes": [],
-        "text": "Nunc nec fermentum felis. Praesent maximus erat nec laoreet lobortis. Nulla nec velit volutpat, efficitur ex ac, sodales dolor. Pellentesque congue ipsum sit amet ex sollicitudin consequat. Donec egestas dui sem, quis molestie nibh imperdiet non. Donec nec leo nec mauris mattis imperdiet vitae eu ante. Nulla ullamcorper congue enim, accumsan rutrum nunc tristique sit amet. Sed ornare tellus sem, vitae maximus eros scelerisque sollicitudin. Quisque vitae tincidunt erat. Vestibulum rutrum pharetra enim eu efficitur. Aliquam blandit, augue sed bibendum tincidunt, quam leo lacinia lorem, nec hendrerit purus risus et dolor.\nSed eget felis quis nibh fringilla luctus id eget turpis. In mi mi, placerat sollicitudin leo ut, interdum rutrum lorem. Duis ultrices lacus non augue suscipit imperdiet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur vel turpis ut dolor pulvinar placerat vitae at nisi. Integer quis tristique dolor. Aliquam eu sem in arcu tempor rhoncus vitae ut velit. Donec congue felis orci, non auctor dui accumsan non. Cras egestas gravida tortor vel euismod. Vivamus fringilla ullamcorper orci et faucibus. Duis tristique nisl quis arcu sollicitudin euismod. Integer non pretium velit, sed tincidunt dui. Quisque est nunc, tincidunt in lectus at, euismod dictum lorem. Vestibulum."
+        "text": ""
     },
     {
-        "country": "Germany",
-        "city": "Dortmund",
-        "airportCode": "DTM",
-        "airportName": "Dortmund Airport",
-        "location": "51.517397,7.6122627",
+        "country": "Ukraine",
+        "city": "Vinnytsia",
+        "airportCode": "VIN",
+        "airportName": "Vinnytsia International Airport",
+        "location": "0.0,0.0",
         "planes": [],
-        "text": "Nunc nec fermentum felis. Praesent maximus erat nec laoreet lobortis. Nulla nec velit volutpat, efficitur ex ac, sodales dolor. Pellentesque congue ipsum sit amet ex sollicitudin consequat. Donec egestas dui sem, quis molestie nibh imperdiet non. Donec nec leo nec mauris mattis imperdiet vitae eu ante. Nulla ullamcorper congue enim, accumsan rutrum nunc tristique sit amet. Sed ornare tellus sem, vitae maximus eros scelerisque sollicitudin. Quisque vitae tincidunt erat. Vestibulum rutrum pharetra enim eu efficitur. Aliquam blandit, augue sed bibendum tincidunt, quam leo lacinia lorem, nec hendrerit purus risus et dolor.\nSed eget felis quis nibh fringilla luctus id eget turpis. In mi mi, placerat sollicitudin leo ut, interdum rutrum lorem. Duis ultrices lacus non augue suscipit imperdiet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur vel turpis ut dolor pulvinar placerat vitae at nisi. Integer quis tristique dolor. Aliquam eu sem in arcu tempor rhoncus vitae ut velit. Donec congue felis orci, non auctor dui accumsan non. Cras egestas gravida tortor vel euismod. Vivamus fringilla ullamcorper orci et faucibus. Duis tristique nisl quis arcu sollicitudin euismod. Integer non pretium velit, sed tincidunt dui. Quisque est nunc, tincidunt in lectus at, euismod dictum lorem. Vestibulum.Suspendisse sodales libero nulla, eget vulputate eros consequat in. Cras quis lectus ullamcorper, semper quam in, pulvinar elit. Suspendisse a tellus at turpis rhoncus feugiat. Morbi viverra dolor at mauris cursus, sit amet tempor tortor suscipit. Integer lectus nisi, commodo in vestibulum id, laoreet at nibh. Aenean convallis venenatis lobortis. Donec suscipit aliquet diam id commodo. Mauris ut ornare nulla, non tristique massa. Sed mollis condimentum efficitur. Quisque in facilisis nunc, nec ultricies ex. Etiam posuere eros velit, ultricies sagittis tortor sollicitudin vel. Aliquam porta luctus erat nec lacinia. Aliquam placerat, dolor a posuere sagittis, ipsum ex sollicitudin nunc, ullamcorper eleifend quam nibh eu felis. Praesent tempus, felis sit amet imperdiet cursus, massa ex porttitor ante, non bibendum est diam eu sapien. Praesent condimentum neque risus, id rutrum mauris molestie eget. Integer malesuada at orci eu dapibus.\nAliquam porta enim ut laoreet molestie. Etiam augue tellus, vehicula sed velit non, venenatis tempus enim. Phasellus eu consequat augue, non dictum libero. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc dignissim metus pulvinar lacus molestie, vel mattis quam accumsan. Suspendisse potenti. Phasellus malesuada, est sed interdum congue, magna erat varius eros, quis tempor orci velit sed purus."
+        "text": ""
     },
     {
-        "country": "Germany",
-        "city": "Friedrichshafen",
-        "airportCode": "FDH",
-        "airportName": "Bodensee Airport Friedrichshafen",
-        "location": "47.6722451,9.5121906",
+        "country": "Ukraine",
+        "city": "Cherkasy",
+        "airportCode": "CKC",
+        "airportName": "Cherkasy Airport",
+        "location": "0.0,0.0",
         "planes": [],
-        "text": "Donec nec lacinia nulla. Donec nisi augue, elementum ac lacinia vel, gravida vitae erat. Nam eu ipsum quis ante egestas tempus. Nullam tincidunt vel nisi eu malesuada. Etiam placerat consectetur cursus. Fusce blandit neque vitae est vulputate vehicula. Sed condimentum accumsan ligula, at rhoncus elit pellentesque sit amet. Fusce faucibus nisi neque, at vehicula augue ultricies sed.\nNunc vel urna nisl. Duis lobortis tristique felis ac sodales. Donec ac sem vel metus aliquet laoreet eget id elit. Aliquam sed ipsum eget nulla bibendum gravida. Nulla sagittis quis elit sollicitudin elementum. Cras congue convallis eros sed iaculis. Donec consectetur eu lectus vitae lacinia. Cras eget sapien non turpis tristique elementum. Sed sollicitudin eget mauris sed facilisis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque sodales velit nec condimentum tempus. Curabitur auctor dolor et vulputate facilisis.\nPraesent ullamcorper magna eget lacus lobortis, quis porttitor ipsum finibus. In hac habitasse platea dictumst. Duis blandit magna eu metus gravida pharetra. Aenean in augue a elit vestibulum laoreet. Praesent elit ante, aliquet a pharetra vitae, ullamcorper pharetra dolor. Duis nec pharetra quam. Vivamus blandit vestibulum iaculis. Morbi tempus aliquet sodales. Vivamus est sapien, facilisis vel gravida quis, ultricies et neque. Nullam efficitur."
-    },
-    {
-        "country": "Hungary",
-        "city": "Debrecen",
-        "airportCode": "DEB",
-        "airportName": "Debrecen Airport",
-        "location": "47.4897469,21.609996",
-        "planes": [],
-        "text": "Sed suscipit urna nec quam dictum ultricies. Donec et euismod ipsum, et fermentum ante. Aenean eu feugiat nisl. Vestibulum dapibus magna sem, at euismod arcu suscipit in. Duis scelerisque elementum felis eget fringilla. Phasellus non purus lectus. Maecenas sagittis tincidunt feugiat. Etiam volutpat quam id scelerisque blandit.\nAliquam sodales tristique risus, ac iaculis turpis pellentesque cursus. Sed rhoncus, nisi vel mollis consectetur, magna nisl accumsan eros, in lobortis nunc ligula scelerisque diam. Vestibulum dignissim ullamcorper odio id auctor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam in bibendum sem. Integer eget lacinia eros. Morbi egestas id neque quis ornare. Nam faucibus vulputate tellus sed aliquet. Ut erat nisl, ullamcorper non nulla sit amet, faucibus pellentesque augue. Integer eu luctus tellus, vel vestibulum urna. Nunc elementum vitae justo sit amet dictum. Nam porttitor maximus nunc.\nAenean posuere diam eu lacus dictum porta. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum pellentesque interdum placerat. Maecenas elementum nunc vulputate lectus ornare semper. Duis non pulvinar elit. Nam sodales dolor a orci ultrices scelerisque. Praesent faucibus odio massa, a vehicula metus elementum a. Sed nec erat pretium, semper elit at, egestas dolor. Vivamus."
-    },
-    {
-        "country": "Bulgaria",
-        "city": "Sofia",
-        "airportCode": "SOF",
-        "airportName": "Sofia Airport",
-        "location": "42.6934278,23.4071233",
-        "planes": [],
-        "text": "Nullam iaculis dui nec ligula sollicitudin eleifend. Aenean accumsan molestie sem, sit amet aliquam ante bibendum a. Donec pharetra dui massa, quis pellentesque nisl volutpat consequat. Praesent gravida facilisis dapibus. Aliquam ultrices auctor nibh. Ut et metus eu ipsum pharetra cursus. Maecenas vehicula mi sodales nibh volutpat commodo. Nam vulputate nunc nibh, vulputate commodo diam blandit quis.\nInteger finibus, purus eu venenatis cursus, ante nisi pulvinar velit, ac molestie ipsum lectus eu massa. Morbi convallis elit urna, in hendrerit ipsum vestibulum sed. Praesent eu eros fringilla enim tincidunt ullamcorper eu ornare ligula. Donec cursus vitae quam ac laoreet. Vestibulum felis purus, semper eu fermentum nec, efficitur et augue. Nulla tincidunt, mauris vel cursus malesuada, odio est laoreet orci, et laoreet nisi ipsum nec sapien. Praesent sodales mauris id enim aliquet scelerisque. Pellentesque fringilla ex purus, nec maximus odio commodo nec. Integer quis consequat tortor, aliquam ultricies tellus. Aliquam non dictum dui, et commodo dui. Donec cursus urna lacus, id consectetur risus pellentesque et. Praesent pretium ipsum vel felis consequat, nec malesuada arcu ullamcorper. Suspendisse id euismod nulla. Vivamus porta odio at dictum varius. Nullam malesuada efficitur ligula, nec vulputate augue egestas eget. Quisque tempus blandit risus vitae suscipit. Suspendisse facilisis."
-    },
-    {
-        "country": "Czech Republic",
-        "city": "Brno",
-        "airportCode": "BRQ",
-        "airportName": "Brno–Turany Airport",
-        "location": "49.1522313,16.6933509",
-        "planes": [],
-        "text": "Mauris imperdiet volutpat mauris et tristique. Duis euismod suscipit orci id porta. Phasellus ac arcu arcu. Proin ipsum nisi, gravida eu vestibulum hendrerit, mollis vel metus. Proin dapibus lorem at velit pulvinar, ut semper enim sodales. Aenean facilisis, nunc quis rhoncus facilisis, leo velit mollis massa, ac placerat lorem ipsum viverra nisi. Nullam faucibus dolor nisi, sed dignissim nisl ultricies eget. Curabitur pulvinar tempus interdum. Proin a erat tortor. Praesent vestibulum, sapien nec feugiat ultrices, enim diam fermentum eros, vitae ullamcorper ligula turpis a libero. Sed in euismod nulla, sit amet porta dui. Maecenas a nisi sit amet eros commodo molestie nec vitae lorem. Mauris dapibus tempus est, vitae eleifend augue dictum et.\nDuis interdum malesuada metus, nec ultrices sapien tempor ut. Donec fringilla odio sed purus placerat ultrices. Quisque ex nisi, condimentum in justo at, ornare tincidunt mi. Vivamus pretium non magna sit amet pretium. Ut lacinia turpis et dui pretium, sed convallis quam porta. Pellentesque semper nunc lacus, vitae laoreet magna lacinia quis. Pellentesque posuere dolor in finibus tristique. Morbi laoreet non elit eu semper. Proin aliquam ipsum in augue malesuada, a tempor sapien egestas. Sed et dolor id leo cursus interdum nec at mauris. Donec nisl ipsum."
-    },
-    {
-        "country": "Bosnia and Herzegovina",
-        "city": "Sarajevo",
-        "airportCode": "SJJ",
-        "airportName": "Sarajevo International Airport",
-        "location": "43.8257957,18.3365271",
-        "planes": [],
-        "text": "Nunc tristique rutrum diam a gravida. Nulla facilisi. Pellentesque ac neque iaculis, sollicitudin lorem mollis, aliquam erat. Sed non mi eu lacus placerat placerat. Aenean aliquet ac leo nec luctus. Proin placerat metus nec gravida pretium. In a lacus libero. Fusce non nulla sit amet diam maximus faucibus. In hac habitasse platea dictumst. Mauris placerat imperdiet nibh. Integer quam diam, bibendum a urna id, tristique sodales eros. Morbi finibus justo sit amet dui efficitur, sit amet malesuada diam pulvinar. Curabitur aliquam justo elementum nulla placerat porttitor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam placerat et tellus quis cursus. Etiam nec ante eu massa malesuada euismod.\nPhasellus vulputate tellus sit amet ligula ornare placerat. Integer feugiat, justo sed molestie condimentum, lacus dui porta ex, ut accumsan elit ipsum a ligula. Phasellus in ullamcorper enim. Suspendisse risus orci, luctus et vehicula a, semper id massa. Praesent id orci tellus. Phasellus tortor est, imperdiet vel hendrerit at, malesuada nec ligula. Maecenas mollis aliquam diam sed dapibus. Aliquam sagittis blandit tincidunt. Mauris ut nisl interdum nisl mollis rutrum. Duis leo tellus, feugiat sed nibh quis, placerat maximus metus. Duis laoreet eros et ex accumsan elementum. Integer varius a."
-    },
-    {
-        "country": "France",
-        "city": "Nantes",
-        "airportCode": "NTE",
-        "airportName": "Nantes Atlantique Airport",
-        "location": "47.1574188,-1.6062316",
-        "planes": [],
-        "text": "Quisque tellus eros, vehicula non velit eget, commodo volutpat tortor. Suspendisse id gravida justo, sit amet convallis dolor. Maecenas egestas tempus magna vel sollicitudin. Fusce vel turpis vel mauris finibus dictum eget a libero. Nullam ultricies tellus at lorem ullamcorper auctor. Maecenas porttitor mauris non lectus consequat ultrices. Nullam sodales accumsan ante sit amet volutpat.\nProin nec nulla elit. Ut sodales mi vitae ante mollis efficitur. Nulla vel nulla risus. Curabitur non bibendum lorem, quis feugiat nisi. Etiam porttitor arcu diam, ut mollis metus faucibus accumsan. Duis pulvinar non arcu eu finibus. Phasellus at consequat metus. Suspendisse fermentum risus vel pharetra rhoncus. Morbi urna justo, aliquet eu nulla in, iaculis fermentum leo. Vivamus ultricies tortor ac elit porta tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra ante lobortis, posuere ante quis, eleifend nisl. Nunc venenatis velit et mollis condimentum.\nSed rhoncus tristique purus ac egestas. Curabitur a suscipit libero, sed mollis velit. Donec iaculis tellus sit amet enim gravida vehicula. Curabitur nisl elit, rutrum non enim vitae, porttitor maximus quam. Sed venenatis eget eros id elementum. Vivamus porttitor aliquet lacinia. Ut sed justo ut turpis pellentesque posuere. Maecenas ut sem in libero pulvinar rhoncus ut sit amet."
-    },
-    {
-        "country": "France",
-        "city": "Marseille",
-        "airportCode": "MRS",
-        "airportName": "Marseille Provence Airport",
-        "location": "43.4384235,5.214414",
-        "planes": [],
-        "text": "Ut viverra augue eget fringilla blandit. Nam elit turpis, volutpat eu ligula id, mollis aliquam arcu. Nullam consectetur ipsum vestibulum tortor auctor tempus. Fusce sed orci vitae libero efficitur dapibus. Nulla blandit sapien sapien, non imperdiet eros semper vestibulum. Cras congue nisl felis, eget luctus leo ultrices in. Morbi leo sapien, blandit eget dictum nec, iaculis eget elit. Nunc molestie ex ac blandit euismod. Nam ac rutrum ipsum. Pellentesque placerat feugiat felis, id ornare tellus sodales vitae. Morbi pretium, ex quis venenatis ullamcorper, ligula metus efficitur nulla, sit amet dignissim elit metus at sem. Proin eu suscipit mauris. Sed sed facilisis velit. Fusce facilisis est a arcu egestas rutrum.\nNulla non est id nibh molestie laoreet a pharetra ante. Curabitur condimentum vestibulum feugiat. Vestibulum nec neque euismod nibh varius molestie. Donec fringilla velit id eros interdum fermentum. Pellentesque non nisl dui. Cras interdum velit vel eros dignissim, a pulvinar lacus fermentum. Sed suscipit, leo non maximus placerat, lectus dolor porta orci, non ornare dolor lorem at risus. Aenean ac congue ligula, nec sodales massa. Quisque tristique libero augue, quis dignissim odio bibendum ut. Ut nec arcu at dolor aliquam vulputate. Suspendisse eget porttitor mi. Vivamus lorem arcu, ullamcorper scelerisque lobortis."
-    },
-    {
-        "country": "Azerbaijan",
-        "city": "Baku",
-        "airportCode": "GYD",
-        "airportName": "Heydar Aliyev International Airport",
-        "location": "40.4650578,50.0523162",
-        "planes": [],
-        "text": "Curabitur maximus posuere magna sagittis mollis. Etiam metus lacus, vehicula vehicula consectetur sed, varius at odio. Quisque venenatis libero tristique ante aliquam eleifend. Donec sem est, iaculis ac pharetra a, ultrices et erat. Proin dui arcu, tincidunt ac enim eu, auctor rutrum nulla. Nulla quis turpis ac nisl volutpat volutpat. Cras efficitur diam nec laoreet sodales.\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum pharetra tellus diam, sit amet bibendum lorem posuere eget. Sed placerat tellus ut magna rhoncus, non ultricies enim laoreet. Morbi vitae turpis lorem. Etiam at iaculis enim. Pellentesque nulla est, iaculis sit amet ipsum non, porttitor maximus libero. Cras dapibus nunc velit, a gravida dui fringilla a. Donec elementum lectus purus, porta semper est accumsan sed. Curabitur dolor ipsum, commodo vitae posuere ut, faucibus sit amet turpis. Fusce iaculis vestibulum condimentum.\nVivamus consequat ut neque nec accumsan. Vestibulum in ligula nec eros gravida pharetra ac non ligula. Quisque efficitur id ex quis dignissim. Maecenas luctus non elit eu luctus. Mauris venenatis, nibh id ullamcorper interdum, diam purus maximus nisi, vel dignissim massa justo at erat. Fusce non faucibus sapien. Morbi aliquet ex at nisl ornare, pharetra consequat risus blandit. Aenean."
-    },
-    {
-        "country": "Cyprus",
-        "city": "Paphos",
-        "airportCode": "PFO",
-        "airportName": "Paphos International Airport",
-        "location": "34.7123004,32.4887091",
-        "planes": [],
-        "text": "Quisque laoreet sagittis orci a egestas. Suspendisse tristique et leo a cursus. Sed mi risus, tincidunt sit amet lectus non, gravida posuere nulla. Morbi egestas metus non nulla molestie pharetra. Pellentesque non dolor erat. Aliquam nunc nibh, placerat a posuere vel, tempor id lectus. Pellentesque consectetur erat vel lorem vestibulum tempus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam maximus urna at mi sodales, eu consectetur massa cursus. Etiam at accumsan nulla.\nVestibulum tempor dui quis pharetra rhoncus. Cras lobortis suscipit arcu, non luctus elit interdum sed. Aliquam erat volutpat. Integer blandit vulputate mi sit amet pulvinar. Nunc blandit, tellus eu tincidunt semper, tellus ex gravida tellus, et eleifend nunc turpis ut velit. Proin eu elementum massa, a luctus tellus. Maecenas at ultricies lorem. Fusce fringilla urna sit amet suscipit laoreet. Suspendisse quis viverra quam. Ut posuere ipsum eget congue convallis. Curabitur ullamcorper egestas odio, porta faucibus leo rhoncus eleifend. Vestibulum feugiat fringilla tristique. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque massa diam, pulvinar ullamcorper justo in, pharetra aliquam enim. Quisque ut velit tincidunt, sagittis arcu at, cursus leo. Pellentesque venenatis, massa ut consequat auctor, lorem sapien auctor lacus, non consectetur neque."
+        "text": ""
     }
 ]
